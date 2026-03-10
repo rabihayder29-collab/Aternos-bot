@@ -6,8 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
+    "ip": "HardcoreSMP-M1Py.aternos.me",
+    "port": 38606
+
+,
     "version": ""
   },
   "position": {
